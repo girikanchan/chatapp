@@ -1,0 +1,3451 @@
+{
+  "Attachments": true,
+  "Challenges": {
+    "Table": [
+      {
+        "ProfileID": 11102944,
+        "CreatedDate": "2023-02-02T15:08:00.7669802",
+        "LastUpdatedDate": "2023-02-02T15:09:10.7829949",
+        "FirstName": "",
+        "LastName": "",
+        "Email": "2020BTCSE0195@svvvindore.onmicrosoft.com",
+        "CompanyName": null,
+        "CountryName": null,
+        "LearnUserName": "KanchanGiri-1432",
+        "LearnUserID": "ba8c2183-a14c-41b6-9085-e8c9c8524bc7",
+        "PDCId": null
+      }
+    ]
+  },
+  "Progress": {
+    "completedLearningItems": [
+      {
+        "title": "learn.wwl.describe-cloud-compute.introduction-microsoft-azure-fundamentals",
+        "type": "unit",
+        "completedAt": "2023-01-25T13:39:24.0282036Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.introduction-cloud-compute",
+        "type": "unit",
+        "completedAt": "2023-01-25T13:41:11.1839102Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.what-cloud-compute",
+        "type": "unit",
+        "completedAt": "2023-01-25T13:41:19.0165225Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.describe-shared-responsibility-model",
+        "type": "unit",
+        "completedAt": "2023-01-25T14:10:43.7448709Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.define-cloud-models",
+        "type": "unit",
+        "completedAt": "2023-01-25T14:16:22.6995921Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.describe-consumption-based-model",
+        "type": "unit",
+        "completedAt": "2023-01-25T14:25:39.4845804Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-01-25T14:41:17.6648452Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute.summary",
+        "type": "unit",
+        "completedAt": "2023-01-25T14:41:21.3492194Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-compute",
+        "type": "module",
+        "completedAt": "2023-01-25T14:41:21.3492326Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.introduction",
+        "type": "unit",
+        "completedAt": "2023-01-25T14:41:46.0984573Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.high-availability-scalability-cloud",
+        "type": "unit",
+        "completedAt": "2023-01-25T14:41:50.151167Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.reliability-predictability-cloud",
+        "type": "unit",
+        "completedAt": "2023-01-25T14:55:49.0061427Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.security-governance-cloud",
+        "type": "unit",
+        "completedAt": "2023-01-25T15:10:36.3484724Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.manageability-cloud",
+        "type": "unit",
+        "completedAt": "2023-01-25T15:11:57.3200021Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-01-25T15:14:33.9981888Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services.summary",
+        "type": "unit",
+        "completedAt": "2023-01-25T15:14:40.2533535Z"
+      },
+      {
+        "title": "learn.wwl.describe-benefits-use-cloud-services",
+        "type": "module",
+        "completedAt": "2023-01-25T15:14:40.2533653Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-service-types.introduction",
+        "type": "unit",
+        "completedAt": "2023-01-25T15:15:34.4595036Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-service-types.describe-infrastructure-service",
+        "type": "unit",
+        "completedAt": "2023-01-25T15:15:39.1506723Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-service-types.describe-platform-service",
+        "type": "unit",
+        "completedAt": "2023-01-25T15:21:57.8082293Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-service-types.describe-software-service",
+        "type": "unit",
+        "completedAt": "2023-01-25T15:24:27.0291746Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-service-types.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-01-25T15:26:54.9455881Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-service-types.summary",
+        "type": "unit",
+        "completedAt": "2023-01-25T15:26:59.7348366Z"
+      },
+      {
+        "title": "learn.wwl.describe-cloud-service-types",
+        "type": "module",
+        "completedAt": "2023-01-25T15:26:59.7348477Z"
+      },
+      {
+        "title": "learn.wwl.describe-core-architectural-components-of-azure.introduction",
+        "type": "unit",
+        "completedAt": "2023-01-25T15:29:36.3713276Z"
+      },
+      {
+        "title": "learn.wwl.describe-core-architectural-components-of-azure.what-microsoft-azure",
+        "type": "unit",
+        "completedAt": "2023-01-25T15:29:41.0318389Z"
+      },
+      {
+        "title": "learn.wwl.describe-core-architectural-components-of-azure.get-started-azure-accounts",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:07.0842268Z"
+      },
+      {
+        "title": "learn.wwl.describe-core-architectural-components-of-azure.exercise-explore-learn-sandbox",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:07.0842277Z"
+      },
+      {
+        "title": "learn.wwl.describe-core-architectural-components-of-azure.describe-azure-physical-infrastructure",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:07.0842287Z"
+      },
+      {
+        "title": "learn.wwl.describe-core-architectural-components-of-azure.describe-azure-management-infrastructure",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:07.0842298Z"
+      },
+      {
+        "title": "learn.wwl.describe-core-architectural-components-of-azure.exercise-create-azure-resource",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:07.0842311Z"
+      },
+      {
+        "title": "learn.wwl.describe-core-architectural-components-of-azure.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:07.084232Z"
+      },
+      {
+        "title": "learn.wwl.describe-core-architectural-components-of-azure.summary",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:07.0842332Z"
+      },
+      {
+        "title": "learn.wwl.describe-core-architectural-components-of-azure",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:07.0842336Z"
+      },
+      {
+        "title": "learn.wwl.get-started-ai-fundamentals.introduction-ai",
+        "type": "unit",
+        "completedAt": "2023-01-26T16:22:25.82607Z"
+      },
+      {
+        "title": "learn.wwl.get-started-ai-fundamentals.understand-machine-learn",
+        "type": "unit",
+        "completedAt": "2023-01-26T16:24:17.3706381Z"
+      },
+      {
+        "title": "learn.wwl.get-started-ai-fundamentals.understand-anomaly-detection",
+        "type": "unit",
+        "completedAt": "2023-01-26T16:26:31.8598963Z"
+      },
+      {
+        "title": "learn.wwl.get-started-ai-fundamentals.understand-computer-vision",
+        "type": "unit",
+        "completedAt": "2023-01-26T16:27:43.6245157Z"
+      },
+      {
+        "title": "learn.wwl.get-started-ai-fundamentals.understand-natural-language-process",
+        "type": "unit",
+        "completedAt": "2023-01-26T16:30:13.187917Z"
+      },
+      {
+        "title": "learn.wwl.get-started-ai-fundamentals.understand-knowledge-mining",
+        "type": "unit",
+        "completedAt": "2023-01-26T16:32:43.1132849Z"
+      },
+      {
+        "title": "learn.wwl.get-started-ai-fundamentals.explore-responsible-ai-practice",
+        "type": "unit",
+        "completedAt": "2023-01-26T16:33:04.0105451Z"
+      },
+      {
+        "title": "learn.wwl.get-started-ai-fundamentals.understand-responsible-ai",
+        "type": "unit",
+        "completedAt": "2023-01-26T16:33:40.3275569Z"
+      },
+      {
+        "title": "learn.wwl.get-started-ai-fundamentals.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-01-26T16:44:28.8400769Z"
+      },
+      {
+        "title": "learn.wwl.get-started-ai-fundamentals.summary",
+        "type": "unit",
+        "completedAt": "2023-01-26T16:44:33.6495209Z"
+      },
+      {
+        "title": "learn.wwl.get-started-ai-fundamentals",
+        "type": "module",
+        "completedAt": "2023-01-26T16:44:33.6495335Z"
+      },
+      {
+        "title": "learn.wwl.use-automated-machine-learning.introduction",
+        "type": "unit",
+        "completedAt": "2023-01-26T16:48:35.3733849Z"
+      },
+      {
+        "title": "learn.wwl.use-automated-machine-learning.machine-learning",
+        "type": "unit",
+        "completedAt": "2023-01-26T16:48:39.3962399Z"
+      },
+      {
+        "title": "learn.wwl.use-automated-machine-learning.azure-machine-learning-studio",
+        "type": "unit",
+        "completedAt": "2023-02-18T17:50:41.9218545Z"
+      },
+      {
+        "title": "learn.wwl.use-automated-machine-learning.automated-machine-learning",
+        "type": "unit",
+        "completedAt": "2023-02-18T17:51:59.7106468Z"
+      },
+      {
+        "title": "learn.wwl.use-automated-machine-learning.machine-learning-steps",
+        "type": "unit",
+        "completedAt": "2023-02-18T17:52:50.3351448Z"
+      },
+      {
+        "title": "learn.wwl.use-automated-machine-learning.exercise",
+        "type": "unit",
+        "completedAt": "2023-02-18T17:57:33.7905868Z"
+      },
+      {
+        "title": "learn.wwl.use-automated-machine-learning.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-18T17:58:52.6075091Z"
+      },
+      {
+        "title": "learn.wwl.use-automated-machine-learning.summary",
+        "type": "unit",
+        "completedAt": "2023-02-18T17:59:05.2680792Z"
+      },
+      {
+        "title": "learn.wwl.use-automated-machine-learning",
+        "type": "module",
+        "completedAt": "2023-02-18T17:59:05.2680926Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-02T13:04:28.553052Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.describe-factors-affect-costs-azure",
+        "type": "unit",
+        "completedAt": "2023-02-02T13:04:38.0026601Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.compare-pricing-total-cost-of-ownership-calculators",
+        "type": "unit",
+        "completedAt": "2023-02-02T13:18:28.9729662Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.exercise-estimate-workload-costs-use-pricing-calculator",
+        "type": "unit",
+        "completedAt": "2023-02-02T13:18:54.1578649Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.exercise-compare-workload-costs-use-total-cost-ownership-calculator",
+        "type": "unit",
+        "completedAt": "2023-02-02T13:19:51.859981Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.describe-azure-tool",
+        "type": "unit",
+        "completedAt": "2023-02-02T13:20:30.1853864Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.describe-purpose-of-tags",
+        "type": "unit",
+        "completedAt": "2023-02-02T13:50:53.0173141Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:13:36.5410703Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.summary",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:14:05.260268Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure",
+        "type": "module",
+        "completedAt": "2023-02-02T14:14:05.2602819Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-azure-for-governance-compliance.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:14:28.8360815Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-azure-for-governance-compliance.describe-purpose-of-azure-blueprints",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:14:42.3153577Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-azure-for-governance-compliance.describe-purpose-of-azure-policy",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:21:13.060981Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-azure-for-governance-compliance.describe-purpose-of-resource-locks",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:28:46.1623106Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-azure-for-governance-compliance.exercise-configure-resource-lock",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:35:20.4364362Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-azure-for-governance-compliance.describe-purpose-of-service-trust-portal",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:43:12.0059998Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-azure-for-governance-compliance.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:44:15.6877239Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-azure-for-governance-compliance.summary",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:44:42.9839383Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-azure-for-governance-compliance",
+        "type": "module",
+        "completedAt": "2023-02-02T14:44:42.983951Z"
+      },
+      {
+        "title": "learn.create-azure-account.2-azure-accounts-and-subscriptions",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:45:08.3086099Z"
+      },
+      {
+        "title": "learn.create-azure-account.5-exercise-create-an-azure-account",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:51:43.0970915Z"
+      },
+      {
+        "title": "learn.create-azure-account.3-multiple-subscriptions",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:51:46.7167554Z"
+      },
+      {
+        "title": "learn.create-azure-account.6-support-options",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:51:51.1756725Z"
+      },
+      {
+        "title": "learn.create-azure-account.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:52:27.4554046Z"
+      },
+      {
+        "title": "learn.create-azure-account.7-summary",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:52:56.0172764Z"
+      },
+      {
+        "title": "learn.create-azure-account.1-introduction",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:53:09.0439557Z"
+      },
+      {
+        "title": "learn.create-azure-account",
+        "type": "module",
+        "completedAt": "2023-02-02T14:53:09.0439676Z"
+      },
+      {
+        "title": "learn.intro-to-azure-blueprints.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:53:31.7391595Z"
+      },
+      {
+        "title": "learn.intro-to-azure-blueprints.what-is-azure-blueprints",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:53:54.1797398Z"
+      },
+      {
+        "title": "learn.intro-to-azure-blueprints.how-azure-blueprints-works",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:54:23.8039866Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-manage-deploy-azure-resources.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:54:49.6197132Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-manage-deploy-azure-resources.describe-interacting-azure",
+        "type": "unit",
+        "completedAt": "2023-02-02T14:54:52.4803031Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-manage-deploy-azure-resources.describe-purpose-of-azure-arc",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.680202Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-manage-deploy-azure-resources.describe-azure-resource-manager-azure-arm-templates",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.6802033Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-manage-deploy-azure-resources.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.6802043Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-manage-deploy-azure-resources.summary",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.6802055Z"
+      },
+      {
+        "title": "learn.wwl.describe-features-tools-manage-deploy-azure-resources",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:09.6802059Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.4162645Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.virtual-machines",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.416266Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.exercise-create-azure-virtual-machine",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.4162671Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.virtual-desktop",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.4162704Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.containers",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.4162715Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.functions",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.4162726Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.describe-application-hosting-options",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.4162735Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.virtual-networking",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.4162744Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.exercise-configure-network-access",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.4162755Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.virtual-private-networks",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.4162767Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.expressroute",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.416278Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.domain-name-system",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.4162792Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.4162805Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services.summary",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.4162816Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-compute-networking-services",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:08.4162819Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-storage-services.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.790589Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-storage-services.accounts",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.7906063Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-storage-services.redundancy",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.7906072Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-storage-services.describe-azure-storage-services",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.7906083Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-storage-services.exercise-create-storage-blob",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.7906094Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-storage-services.identify-azure-data-migration-options",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.7906105Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-storage-services.identify-azure-file-movement-options",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.7906137Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-storage-services.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.7906312Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-storage-services.summary",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:08.7906324Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-storage-services",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:08.7906327Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-identity-access-security.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.1416522Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-identity-access-security.directory-services",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.1416538Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-identity-access-security.authentication-methods",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.1416573Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-identity-access-security.external-identities",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.1416583Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-identity-access-security.conditional-access",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.1416601Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-identity-access-security.role-based-access-control",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.1416612Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-identity-access-security.describe-zero-trust-model",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.1416623Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-identity-access-security.describe-defense-depth",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.1416636Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-identity-access-security.describe-microsoft-defender-for-cloud",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.1416649Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-identity-access-security.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.1416661Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-identity-access-security.summary",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:09.141667Z"
+      },
+      {
+        "title": "learn.wwl.describe-azure-identity-access-security",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:09.1416672Z"
+      },
+      {
+        "title": "learn.wwl.describe-monitoring-tools-azure.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:10.0459976Z"
+      },
+      {
+        "title": "learn.wwl.describe-monitoring-tools-azure.describe-purpose-of-azure-advisor",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:10.0459993Z"
+      },
+      {
+        "title": "learn.wwl.describe-monitoring-tools-azure.describe-azure-service-health",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:10.0460003Z"
+      },
+      {
+        "title": "learn.wwl.describe-monitoring-tools-azure.describe-azure-monitor",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:10.0460013Z"
+      },
+      {
+        "title": "learn.wwl.describe-monitoring-tools-azure.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:10.0460027Z"
+      },
+      {
+        "title": "learn.wwl.describe-monitoring-tools-azure.summary",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:10.0460039Z"
+      },
+      {
+        "title": "learn.wwl.describe-monitoring-tools-azure",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:10.0460041Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-active-directory.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:37.7842596Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-active-directory.describe-benefits-features",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:37.784261Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-active-directory.describe-azure-ad-concepts",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:37.7842629Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-active-directory.compare-ad-ds-to",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:37.7842636Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-active-directory.select-editions",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:37.7842651Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-active-directory.implement-ad-join",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:37.7842663Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-active-directory.implement-self-service-password-reset",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:37.7842672Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-active-directory.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:37.7842683Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-active-directory.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:37.7842721Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-active-directory",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:37.7842725Z"
+      },
+      {
+        "title": "learn.wwl.configure-user-group-accounts.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.4050768Z"
+      },
+      {
+        "title": "learn.wwl.configure-user-group-accounts.create-user-accounts",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.4050785Z"
+      },
+      {
+        "title": "learn.wwl.configure-user-group-accounts.manage-user-accounts",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.4050796Z"
+      },
+      {
+        "title": "learn.wwl.configure-user-group-accounts.create-bulk-user-accounts",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.4050806Z"
+      },
+      {
+        "title": "learn.wwl.configure-user-group-accounts.create",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.4050821Z"
+      },
+      {
+        "title": "learn.wwl.configure-user-group-accounts.create-administrative-units",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.4050832Z"
+      },
+      {
+        "title": "learn.wwl.configure-user-group-accounts.interactive-lab-simulation-identity",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.405084Z"
+      },
+      {
+        "title": "learn.wwl.configure-user-group-accounts.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.405085Z"
+      },
+      {
+        "title": "learn.wwl.configure-user-group-accounts.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.4050862Z"
+      },
+      {
+        "title": "learn.wwl.configure-user-group-accounts",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:38.4050867Z"
+      },
+      {
+        "title": "learn.wwl.configure-subscriptions.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.9800053Z"
+      },
+      {
+        "title": "learn.wwl.configure-subscriptions.identify-regions",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.9800072Z"
+      },
+      {
+        "title": "learn.wwl.configure-subscriptions.implement-azure-subscriptions",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.9800083Z"
+      },
+      {
+        "title": "learn.wwl.configure-subscriptions.obtain-subscription",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.9800092Z"
+      },
+      {
+        "title": "learn.wwl.configure-subscriptions.identify-subscription-usage",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.9800102Z"
+      },
+      {
+        "title": "learn.wwl.configure-subscriptions.implement-cost-management",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.9800115Z"
+      },
+      {
+        "title": "learn.wwl.configure-subscriptions.apply-resource-tagging",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.9800123Z"
+      },
+      {
+        "title": "learn.wwl.configure-subscriptions.apply-cost-savings",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.9800133Z"
+      },
+      {
+        "title": "learn.wwl.configure-subscriptions.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.9800148Z"
+      },
+      {
+        "title": "learn.wwl.configure-subscriptions.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:38.980016Z"
+      },
+      {
+        "title": "learn.wwl.configure-subscriptions",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:38.9800162Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-policy.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:39.6025911Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-policy.create-management-groups",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:39.6025927Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-policy.implement-azure-policies",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:39.6025937Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-policy.create-azure-policies",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:39.6025948Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-policy.create-policy-definitions",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:39.6025962Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-policy.create-initiative-definitions",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:39.6025978Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-policy.scope-initiative-definition",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:39.6025989Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-policy.determine-compliance",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:39.6025998Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-policy.interactive-lab-simulation-policy",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:39.6026008Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-policy.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:39.6026018Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-policy.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:39.6026031Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-policy",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:39.6026035Z"
+      },
+      {
+        "title": "learn.wwl.configure-role-based-access-control.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:40.2171765Z"
+      },
+      {
+        "title": "learn.wwl.configure-role-based-access-control.implement",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:40.2171779Z"
+      },
+      {
+        "title": "learn.wwl.configure-role-based-access-control.create-role-definition",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:40.2171788Z"
+      },
+      {
+        "title": "learn.wwl.configure-role-based-access-control.create-role-assignment",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:40.2171799Z"
+      },
+      {
+        "title": "learn.wwl.configure-role-based-access-control.compare-azure-rbac-roles-to-azure-ad-roles",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:40.2171813Z"
+      },
+      {
+        "title": "learn.wwl.configure-role-based-access-control.apply-rbac-authentication",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:40.2171823Z"
+      },
+      {
+        "title": "learn.wwl.configure-role-based-access-control.determine-rbac-roles",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:40.2171833Z"
+      },
+      {
+        "title": "learn.wwl.configure-role-based-access-control.interactive-lab-simualtion-role-based",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:40.2171845Z"
+      },
+      {
+        "title": "learn.wwl.configure-role-based-access-control.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:40.2171855Z"
+      },
+      {
+        "title": "learn.wwl.configure-role-based-access-control.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:40.2171866Z"
+      },
+      {
+        "title": "learn.wwl.configure-role-based-access-control",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:40.2171869Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-resources-tools.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.2287571Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-resources-tools.use-azure-portal",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.2287589Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-resources-tools.use-azure-cloud-shell",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.22876Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-resources-tools.use-azure-powershell",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.2287609Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-resources-tools.interactive-simulation-powershell",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.228762Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-resources-tools.use-azure-cli",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.2287632Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-resources-tools.interactive-simulation-command-line",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.2287643Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-resources-tools.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.2287653Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-resources-tools.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.2287664Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-resources-tools",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:41.2287669Z"
+      },
+      {
+        "title": "learn.wwl.use-azure-resource-manager.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.8226578Z"
+      },
+      {
+        "title": "learn.wwl.use-azure-resource-manager.review-benefits",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.8226594Z"
+      },
+      {
+        "title": "learn.wwl.use-azure-resource-manager.review-terminology",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.8226605Z"
+      },
+      {
+        "title": "learn.wwl.use-azure-resource-manager.create-resource-groups",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.8226614Z"
+      },
+      {
+        "title": "learn.wwl.use-azure-resource-manager.create-locks",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.8226627Z"
+      },
+      {
+        "title": "learn.wwl.use-azure-resource-manager.reorganize-azure-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.8226638Z"
+      },
+      {
+        "title": "learn.wwl.use-azure-resource-manager.remove-resources-resource-groups",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.8226648Z"
+      },
+      {
+        "title": "learn.wwl.use-azure-resource-manager.determine-resource-limits",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.8226656Z"
+      },
+      {
+        "title": "learn.wwl.use-azure-resource-manager.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.8226668Z"
+      },
+      {
+        "title": "learn.wwl.use-azure-resource-manager.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:41.8226679Z"
+      },
+      {
+        "title": "learn.wwl.use-azure-resource-manager",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:41.8226683Z"
+      },
+      {
+        "title": "learn.wwl.configure-resources-arm-templates.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.4363668Z"
+      },
+      {
+        "title": "learn.wwl.configure-resources-arm-templates.review-arm-template-advantages",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.4363684Z"
+      },
+      {
+        "title": "learn.wwl.configure-resources-arm-templates.explore-arm-template-schema",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.4363694Z"
+      },
+      {
+        "title": "learn.wwl.configure-resources-arm-templates.explore-arm-template-parameters",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.4363703Z"
+      },
+      {
+        "title": "learn.wwl.configure-resources-arm-templates.consider-bicep-templates",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.4363715Z"
+      },
+      {
+        "title": "learn.wwl.configure-resources-arm-templates.review-quickstart-templates",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.4363732Z"
+      },
+      {
+        "title": "learn.wwl.configure-resources-arm-templates.interactive-lab-simulation-templates",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.4363748Z"
+      },
+      {
+        "title": "learn.wwl.configure-resources-arm-templates.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.4363758Z"
+      },
+      {
+        "title": "learn.wwl.configure-resources-arm-templates.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.4363769Z"
+      },
+      {
+        "title": "learn.wwl.configure-resources-arm-templates",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:42.4363773Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-networks.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.9840754Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-networks.plan",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.9840766Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-networks.create-subnets",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.9840779Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-networks.create",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.9840789Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-networks.plan-ip-addressing",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.984082Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-networks.create-public-ip-addressing",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.9840835Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-networks.associate-public-ip-addresses",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.9840844Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-networks.associate-private-ip-addresses",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.9840854Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-networks.lab-simulation-create-networks",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.9840865Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-networks.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.9840876Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-networks.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:42.9840886Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-networks",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:42.9840888Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-security-groups.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:43.572546Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-security-groups.implement",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:43.5725476Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-security-groups.determine-nsg-rules",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:43.5725485Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-security-groups.determine-nsg-effective-rules",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:43.5725494Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-security-groups.create-nsg-rules",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:43.5725505Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-security-groups.implement-asgs-new",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:43.5725517Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-security-groups.interactive-lab-simulation-network-groups",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:43.5725527Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-security-groups.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:43.5725538Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-security-groups.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:43.5725549Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-security-groups",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:43.5725553Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-firewall.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.1895521Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-firewall.determine-uses",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.1895535Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-firewall.create-azure-firewalls",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.1895545Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-firewall.create-firewall-rules",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.1895554Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-firewall.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.1895564Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-firewall.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.1895575Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-firewall",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:44.1895577Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-dns.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.7761838Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-dns.identify-domains-custom-domains",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.7761854Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-dns.verify-custom-domain-names",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.7761864Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-dns.create-zones",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.7761875Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-dns.delegate-dns-domains",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.7761886Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-dns.add-dns-record-sets",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.77619Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-dns.plan-for-private-dns-zones",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.7761915Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-dns.determine-private-zone-scenarios",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.7761924Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-dns.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.7761935Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-dns.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:44.7761946Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-dns",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:44.776195Z"
+      },
+      {
+        "title": "learn.wwl.configure-vnet-peering.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.3458851Z"
+      },
+      {
+        "title": "learn.wwl.configure-vnet-peering.determine-uses",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.3458867Z"
+      },
+      {
+        "title": "learn.wwl.configure-vnet-peering.determine-gateway-transit-connectivity",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.3458881Z"
+      },
+      {
+        "title": "learn.wwl.configure-vnet-peering.create",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.3458889Z"
+      },
+      {
+        "title": "learn.wwl.configure-vnet-peering.determine-service-chaining-uses",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.3458901Z"
+      },
+      {
+        "title": "learn.wwl.configure-vnet-peering.interactive-simulation-peering",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.3458912Z"
+      },
+      {
+        "title": "learn.wwl.configure-vnet-peering.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.3458921Z"
+      },
+      {
+        "title": "learn.wwl.configure-vnet-peering.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.3458931Z"
+      },
+      {
+        "title": "learn.wwl.configure-vnet-peering",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:45.3458936Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.954387Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway.determine-uses",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.9543884Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway.create-site-to-site-connections",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.9543893Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway.create-gateway-subnet",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.9543905Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway.create",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.9543915Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway.determine-type",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.9543928Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway.determine-gateway-sku-generation",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.954396Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway.create-local-network-gateway",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.954397Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway.setup-premises",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.9543984Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway.create-vpn-connection",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.9544006Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway.determine-high-availability-scenarios",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.9544014Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.9544024Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:45.9544035Z"
+      },
+      {
+        "title": "learn.wwl.configure-vpn-gateway",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:45.9544037Z"
+      },
+      {
+        "title": "learn.wwl.configure-expressroute-virtual-wan.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:46.8391534Z"
+      },
+      {
+        "title": "learn.wwl.configure-expressroute-virtual-wan.determine-expressroute-uses",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:46.8391548Z"
+      },
+      {
+        "title": "learn.wwl.configure-expressroute-virtual-wan.determine-expressroute-capabilities",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:46.8391556Z"
+      },
+      {
+        "title": "learn.wwl.configure-expressroute-virtual-wan.coexist-site-to-site-expressroute",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:46.8391566Z"
+      },
+      {
+        "title": "learn.wwl.configure-expressroute-virtual-wan.compare-intersite-connection-options",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:46.8391578Z"
+      },
+      {
+        "title": "learn.wwl.configure-expressroute-virtual-wan.determine-uses",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:46.839159Z"
+      },
+      {
+        "title": "learn.wwl.configure-expressroute-virtual-wan.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:46.8391602Z"
+      },
+      {
+        "title": "learn.wwl.configure-expressroute-virtual-wan.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:46.8391612Z"
+      },
+      {
+        "title": "learn.wwl.configure-expressroute-virtual-wan",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:46.8391617Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-routing-endpoints.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:47.4003454Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-routing-endpoints.review-system-routes",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:47.4003471Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-routing-endpoints.identify-user-defined-routes",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:47.400348Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-routing-endpoints.determine-service-endpoint-uses",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:47.4003487Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-routing-endpoints.determine-service-endpoint-services",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:47.4003499Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-routing-endpoints.identify-private-link-uses",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:47.4003513Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-routing-endpoints.interactive-simulation-routing",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:47.4003523Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-routing-endpoints.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:47.4003532Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-routing-endpoints.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:47.4003544Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-routing-endpoints",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:47.4003548Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-load-balancer.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.0161354Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-load-balancer.determine-uses",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.0161369Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-load-balancer.implement-public",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.0161378Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-load-balancer.implement-internal",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.0161387Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-load-balancer.determine-skus",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.0161403Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-load-balancer.create-backend-pools",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.0161414Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-load-balancer.create-health-probes",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.0161426Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-load-balancer.create-rules",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.0161438Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-load-balancer.simulation-load-balancer",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.0161451Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-load-balancer.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.016146Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-load-balancer.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.0161471Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-load-balancer",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:48.0161475Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-application-gateway.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.6326729Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-application-gateway.implement",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.6326741Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-application-gateway.determine-routing",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.6326755Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-application-gateway.setup-components",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.6326764Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-application-gateway.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.6326775Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-application-gateway.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:48.6326788Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-application-gateway",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:48.6326791Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-accounts.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.2621821Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-accounts.implement-azure-storage",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.262184Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-accounts.explore-azure-storage-services",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.2621847Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-accounts.determine-storage-account-kinds",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.2621856Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-accounts.determine-replication-strategies",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.2621866Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-accounts.access-storage",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.2621878Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-accounts.secure-storage-endpoints",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.2621914Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-accounts.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.2621922Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-accounts.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.2621933Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-accounts",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:49.2621937Z"
+      },
+      {
+        "title": "learn.wwl.configure-blob-storage.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.8696368Z"
+      },
+      {
+        "title": "learn.wwl.configure-blob-storage.implement",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.8696388Z"
+      },
+      {
+        "title": "learn.wwl.configure-blob-storage.create-blob-containers",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.8696397Z"
+      },
+      {
+        "title": "learn.wwl.configure-blob-storage.create-blob-access-tiers",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.8696407Z"
+      },
+      {
+        "title": "learn.wwl.configure-blob-storage.add-blob-lifecycle-management-rules",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.8696442Z"
+      },
+      {
+        "title": "learn.wwl.configure-blob-storage.determine-blob-object-replication",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.8696458Z"
+      },
+      {
+        "title": "learn.wwl.configure-blob-storage.upload-blobs",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.8696472Z"
+      },
+      {
+        "title": "learn.wwl.configure-blob-storage.determine-storage-pricing",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.8696483Z"
+      },
+      {
+        "title": "learn.wwl.configure-blob-storage.simulation-blob-storage",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.8696494Z"
+      },
+      {
+        "title": "learn.wwl.configure-blob-storage.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.8696504Z"
+      },
+      {
+        "title": "learn.wwl.configure-blob-storage.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:49.8696514Z"
+      },
+      {
+        "title": "learn.wwl.configure-blob-storage",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:49.8696516Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-security.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:50.4451659Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-security.review-strategies",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:50.4451679Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-security.create-shared-access-signatures",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:50.4451688Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-security.identify-uri-sas-parameters",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:50.4451698Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-security.determine-storage-service-encryption",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:50.4451708Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-security.create-customer-managed-keys",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:50.4451719Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-security.apply-best-practices",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:50.4451727Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-security.interactive-lab-simulation-storage",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:50.4451737Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-security.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:50.4451752Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-security.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:50.4451766Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-security",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:50.4451768Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-files-file-sync.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.0508453Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-files-file-sync.compare-files-to-blobs",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.0508466Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-files-file-sync.manage-file-shares",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.0508473Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-files-file-sync.create-file-share-snapshots",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.0508484Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-files-file-sync.implement",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.0508496Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-files-file-sync.identify-components",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.0508508Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-files-file-sync.setup",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.0508519Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-files-file-sync.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.0508529Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-files-file-sync.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.0508541Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-files-file-sync",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:51.0508546Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-tools.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.6997689Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-tools.use-azure-storage-explorer",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.6997706Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-tools.use-import-export-service",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.6997717Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-tools.use-waimportexport-tool",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.699773Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-tools.use-azcopy",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.6997741Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-tools.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.6997752Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-tools.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:51.6997761Z"
+      },
+      {
+        "title": "learn.wwl.configure-storage-tools",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:51.6997764Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machines.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.3082097Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machines.review-cloud-services-responsibilities",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.3082113Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machines.plan",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.3082121Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machines.determine-virtual-machine-sizing",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.3082129Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machines.determine-virtual-machine-storage",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.3082141Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machines.create-portal",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.3082149Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machines.connect-to",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.3082159Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machines.simulation-create-virtual-machines",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.3082191Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machines.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.3082203Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machines.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.3082215Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machines",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:52.3082218Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.9158496Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability.plan-for-maintenance-downtime",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.9158521Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability.setup-availability-sets",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.9158533Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability.review-update-fault-domains",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.9158542Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability.review-availability-zones",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.9158552Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability.compare-vertical-horizontal-scaling",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.9158562Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability.implement-scale-sets",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.9158573Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability.create-scale-sets",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.9158582Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability.implement-autoscale",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.9158594Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability.configure-autoscale",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.9158611Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability.inteactive-lab-simulation-scaling",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.9158622Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.9158633Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:52.9158644Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-availability",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:52.9158647Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-extensions.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:53.5183689Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-extensions.implement-virtual-machines-extensions",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:53.5183706Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-extensions.implement-custom-script-extensions",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:53.5183715Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-extensions.implement-desired-state-configuration",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:53.5183725Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-extensions.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:53.5183736Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-extensions.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:53.5183747Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-extensions",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:53.5183751Z"
+      },
+      {
+        "title": "learn.wwl.configure-app-service-plans.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.1892133Z"
+      },
+      {
+        "title": "learn.wwl.configure-app-service-plans.implement-azure",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.1892149Z"
+      },
+      {
+        "title": "learn.wwl.configure-app-service-plans.determine-plan-pricing",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.1892159Z"
+      },
+      {
+        "title": "learn.wwl.configure-app-service-plans.scale-up-scale-out",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.1892168Z"
+      },
+      {
+        "title": "learn.wwl.configure-app-service-plans.plan-scaling",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.1892184Z"
+      },
+      {
+        "title": "learn.wwl.configure-app-service-plans.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.1892195Z"
+      },
+      {
+        "title": "learn.wwl.configure-app-service-plans.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.1892203Z"
+      },
+      {
+        "title": "learn.wwl.configure-app-service-plans",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:54.1892207Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.7429898Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services.implement",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.7429911Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services.create-app-service",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.742992Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services.explore-continuous-integration-deployment",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.7429929Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services.create-deployment-slots",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.7429948Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services.add-deployment-slots",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.7429959Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services.secure-app-service",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.7429972Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services.create-custom-domain-names",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.7429982Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services.backup-app-service",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.7429996Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services.use-application-insights",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.7430008Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services.interactive-simulation-web-apps",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.7430023Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.743003Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:54.7430041Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-app-services",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:54.7430044Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-container-instances.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.3135387Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-container-instances.compare-containers-to-virtual-machines",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.3135401Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-container-instances.review",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.3135412Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-container-instances.implement-container-groups",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.3135421Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-container-instances.review-docker-platform",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.3135433Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-container-instances.interactive-lab-simulation-containers",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.3135444Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-container-instances.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.3135453Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-container-instances.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.3135463Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-container-instances",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:55.3135483Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-kubernetes-service.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.8893858Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-kubernetes-service.explore-aks-terminology",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.8893873Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-kubernetes-service.explore-aks-cluster-node-architecture",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.8893883Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-kubernetes-service.configure-aks-networking",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.8893891Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-kubernetes-service.configure-aks-storage",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.8893901Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-kubernetes-service.configure-aks-scaling",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.8893912Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-kubernetes-service.configure-aks-scaling-to-aci",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.8893921Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-kubernetes-service.interactive-lab-simulation-kubernetes",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.8893938Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-kubernetes-service.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.8893947Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-kubernetes-service.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:55.8893959Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-kubernetes-service",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:55.8893962Z"
+      },
+      {
+        "title": "learn.wwl.configure-file-folder-backups.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:56.4665714Z"
+      },
+      {
+        "title": "learn.wwl.configure-file-folder-backups.describe-azure-backup-benefits",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:56.4665731Z"
+      },
+      {
+        "title": "learn.wwl.configure-file-folder-backups.implement-azure-backup-center",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:56.4665743Z"
+      },
+      {
+        "title": "learn.wwl.configure-file-folder-backups.setup-recovery-service-vault-backup-options",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:56.4665755Z"
+      },
+      {
+        "title": "learn.wwl.configure-file-folder-backups.manage-azure-recovery-services-agent",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:56.4665767Z"
+      },
+      {
+        "title": "learn.wwl.configure-file-folder-backups.configure-premises",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:56.466578Z"
+      },
+      {
+        "title": "learn.wwl.configure-file-folder-backups.inteactive-lab-simulation-files",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:56.466579Z"
+      },
+      {
+        "title": "learn.wwl.configure-file-folder-backups.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:56.46658Z"
+      },
+      {
+        "title": "learn.wwl.configure-file-folder-backups.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:56.4665812Z"
+      },
+      {
+        "title": "learn.wwl.configure-file-folder-backups",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:56.4665817Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.1030215Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups.protect-data",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.1030228Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups.create-snapshots",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.1030236Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups.setup-recovery-services-vault-backup-options",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.1030244Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups.backup-virtual-machines",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.1030255Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups.restore-virtual-machines",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.1030264Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups.implement-azure-backup-server",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.1030273Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups.compare-backup-options",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.1030282Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups.manage-soft-delete",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.1030291Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups.implement-azure-site-recovery",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.1030305Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups.lab-simulation-backup",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.1030314Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.1030324Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.1030332Z"
+      },
+      {
+        "title": "learn.wwl.configure-virtual-machine-backups",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:57.1030335Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-monitor.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.6677362Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-monitor.describe-key-capabilities",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.6677378Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-monitor.describe-components",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.6677388Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-monitor.define-metrics-logs",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.6677399Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-monitor.identify-data-types",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.6677411Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-monitor.describe-activity-log-events",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.667742Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-monitor.query-activity-log",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.667743Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-monitor.interactive-lab-simulation-monitor",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.6677441Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-monitor.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.6677453Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-monitor.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:57.6677465Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-monitor",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:57.6677468Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-alerts.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:58.2687534Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-alerts.manage-azure-monitor-alerts",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:58.2687547Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-alerts.create-alert-rules",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:58.2687554Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-alerts.create-action-groups",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:58.2687563Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-alerts.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:58.2687573Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-alerts.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:58.2687584Z"
+      },
+      {
+        "title": "learn.wwl.configure-azure-alerts",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:58.2687586Z"
+      },
+      {
+        "title": "learn.wwl.configure-log-analytics.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:58.8543196Z"
+      },
+      {
+        "title": "learn.wwl.configure-log-analytics.determine-uses",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:58.8543207Z"
+      },
+      {
+        "title": "learn.wwl.configure-log-analytics.create-workspace",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:58.8543215Z"
+      },
+      {
+        "title": "learn.wwl.configure-log-analytics.visualize-data",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:58.8543224Z"
+      },
+      {
+        "title": "learn.wwl.configure-log-analytics.structure-queries",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:58.8543234Z"
+      },
+      {
+        "title": "learn.wwl.configure-log-analytics.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:58.8543242Z"
+      },
+      {
+        "title": "learn.wwl.configure-log-analytics.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:58.854325Z"
+      },
+      {
+        "title": "learn.wwl.configure-log-analytics",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:58.8543252Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-watcher.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:59.4264701Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-watcher.describe-features",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:59.4264716Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-watcher.review-ip-flow-verify-diagnostics",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:59.4264724Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-watcher.review-next-hop-diagnostics",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:59.4264734Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-watcher.visualize-network-topology",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:59.4264744Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-watcher.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:59.4264754Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-watcher.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-02-09T07:05:59.4264766Z"
+      },
+      {
+        "title": "learn.wwl.configure-network-watcher",
+        "type": "module",
+        "completedAt": "2023-02-09T07:05:59.4264768Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-openai.introduction",
+        "type": "unit",
+        "completedAt": "2023-02-18T15:34:01.0493144Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-openai.what-is-generative-ai",
+        "type": "unit",
+        "completedAt": "2023-02-18T15:35:14.5068746Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-openai.describe-azure-openai",
+        "type": "unit",
+        "completedAt": "2023-02-18T15:36:24.1643446Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-openai.how-to-use-azure-openai",
+        "type": "unit",
+        "completedAt": "2023-02-18T15:38:55.7594295Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-openai.understand-openai-natural-language",
+        "type": "unit",
+        "completedAt": "2023-02-18T16:38:33.754766Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-openai.understand-openai-code-generation",
+        "type": "unit",
+        "completedAt": "2023-02-18T16:40:37.5064521Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-openai.understand-openai-image-generation",
+        "type": "unit",
+        "completedAt": "2023-02-18T17:40:52.5203132Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-openai.describe-openai-responsible-ai",
+        "type": "unit",
+        "completedAt": "2023-02-18T17:41:40.0631681Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-openai.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-02-18T17:48:02.0640393Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-openai.summary",
+        "type": "unit",
+        "completedAt": "2023-02-18T17:48:06.9866553Z"
+      },
+      {
+        "title": "learn.wwl.explore-azure-openai",
+        "type": "module",
+        "completedAt": "2023-02-18T17:48:06.9866725Z"
+      },
+      {
+        "title": "learn.wwl.create-regression-model-azure-machine-learning-designer.introduction",
+        "type": "unit",
+        "completedAt": "2023-03-25T16:53:37.8335526Z"
+      },
+      {
+        "title": "learn.wwl.create-regression-model-azure-machine-learning-designer.regression-scenarios",
+        "type": "unit",
+        "completedAt": "2023-03-25T16:53:41.9402359Z"
+      },
+      {
+        "title": "learn.wwl.create-regression-model-azure-machine-learning-designer.create-compute",
+        "type": "unit",
+        "completedAt": "2023-03-25T16:53:48.0866941Z"
+      },
+      {
+        "title": "learn.wwl.create-regression-model-azure-machine-learning-designer.what-is-azure-designer",
+        "type": "unit",
+        "completedAt": "2023-03-25T16:55:46.3583246Z"
+      },
+      {
+        "title": "learn.wwl.identify-licensing-options-available-microsoft-365.introduction",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:26:18.7752758Z"
+      },
+      {
+        "title": "learn.wwl.identify-licensing-options-available-microsoft-365.describe-cloud-solution-provider-model",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:26:22.0689626Z"
+      },
+      {
+        "title": "learn.wwl.identify-licensing-options-available-microsoft-365.explore-bill-management-options",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:26:27.5584187Z"
+      },
+      {
+        "title": "learn.wwl.identify-licensing-options-available-microsoft-365.license-manage-users",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:26:45.2587218Z"
+      },
+      {
+        "title": "learn.wwl.identify-licensing-options-available-microsoft-365.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:27:20.5811179Z"
+      },
+      {
+        "title": "learn.wwl.identify-licensing-options-available-microsoft-365.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:27:30.2978355Z"
+      },
+      {
+        "title": "learn.wwl.identify-licensing-options-available-microsoft-365",
+        "type": "module",
+        "completedAt": "2023-03-25T17:27:30.2978456Z"
+      },
+      {
+        "title": "learn.wwl.describe-productivity-solutions-microsoft-365.introduction",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:27:49.1690832Z"
+      },
+      {
+        "title": "learn.wwl.describe-productivity-solutions-microsoft-365.describe-core-productivity-tools",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:27:53.4376497Z"
+      },
+      {
+        "title": "learn.wwl.describe-productivity-solutions-microsoft-365.describe-how-apps-helps-increase-productivity",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:30:17.3071909Z"
+      },
+      {
+        "title": "learn.wwl.describe-productivity-solutions-microsoft-365.describe-work-management-tools",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:31:06.2880436Z"
+      },
+      {
+        "title": "learn.wwl.describe-productivity-solutions-microsoft-365.describe-additional-microsoft-365-productivity-apps",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:32:49.6950977Z"
+      },
+      {
+        "title": "learn.wwl.describe-productivity-solutions-microsoft-365.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:33:34.9944489Z"
+      },
+      {
+        "title": "learn.wwl.describe-productivity-solutions-microsoft-365.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:33:45.3057652Z"
+      },
+      {
+        "title": "learn.wwl.describe-productivity-solutions-microsoft-365",
+        "type": "module",
+        "completedAt": "2023-03-25T17:33:45.305775Z"
+      },
+      {
+        "title": "learn.wwl.describe-support-offerings-for-microsoft-365-services.introduction",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:34:36.2756351Z"
+      },
+      {
+        "title": "learn.wwl.describe-support-offerings-for-microsoft-365-services.explore-support-options",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:34:39.6117104Z"
+      },
+      {
+        "title": "learn.wwl.describe-support-offerings-for-microsoft-365-services.explain-service-level-agreements",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:34:45.1682548Z"
+      },
+      {
+        "title": "learn.wwl.describe-support-offerings-for-microsoft-365-services.describe-how-to-track-service-health-status",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:35:04.1102219Z"
+      },
+      {
+        "title": "learn.wwl.describe-support-offerings-for-microsoft-365-services.communicate-share-ideas-with-uservoice",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:35:06.5775777Z"
+      },
+      {
+        "title": "learn.wwl.describe-support-offerings-for-microsoft-365-services.knowledge-check",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:35:49.7626553Z"
+      },
+      {
+        "title": "learn.wwl.describe-support-offerings-for-microsoft-365-services.summary-resources",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:36:01.2758326Z"
+      },
+      {
+        "title": "learn.wwl.describe-support-offerings-for-microsoft-365-services",
+        "type": "module",
+        "completedAt": "2023-03-25T17:36:01.2758448Z"
+      },
+      {
+        "title": "learn.wwl.describe-collaboration-solutions-microsoft-365.introduction",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:37:47.821072Z"
+      },
+      {
+        "title": "learn.wwl.describe-collaboration-solutions-microsoft-365.describe-collaboration-capabilities-benefits-microsoft-365",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:37:52.3553442Z"
+      },
+      {
+        "title": "learn.wwl.describe-collaboration-solutions-microsoft-365.workloads-of-teams-value-that-they-provide",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:37:57.1328516Z"
+      },
+      {
+        "title": "learn.wwl.describe-collaboration-solutions-microsoft-365.describe-core-employee-experience-capabilities-microsoft-viva",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:38:01.361634Z"
+      },
+      {
+        "title": "learn.wwl.describe-collaboration-solutions-microsoft-365.describe-how-yammer-helps-communities-connect-grow",
+        "type": "unit",
+        "completedAt": "2023-03-25T17:38:05.2102577Z"
+      }
+    ]
+  },
+  "Q&A": {
+    "docsId": "ba8c2183-a14c-41b6-9085-e8c9c8524bc7",
+    "questions": [],
+    "answers": [],
+    "comments": []
+  },
+  "Certifications": null,
+  "Lists": [
+    {
+      "id": "m125b4ejp61gdg",
+      "userId": "ba8c2183-a14c-41b6-9085-e8c9c8524bc7",
+      "name": "Copied Favorites",
+      "description": "",
+      "type": "collection",
+      "lastModified": "2023-02-02T15:08:00+00:00",
+      "totalItems": 1,
+      "items": [
+        {
+          "id": "m125b4ejp61gdg_docs-0944046250A6172D9552E3DD6F05F67F",
+          "listId": "m125b4ejp61gdg",
+          "type": "docs",
+          "data": {
+            "url": "/training/paths/get-started-with-artificial-intelligence-on-azure/",
+            "rawUrl": "https://learn.microsoft.com/en-gb/training/paths/get-started-with-artificial-intelligence-on-azure/",
+            "title": "Microsoft Azure AI Fundamentals: Get started with artificial intelligence - Training",
+            "docId": "64826b36-a92f-7ff7-7342-a12a323bd610",
+            "docVIId": "27dc43f5-75e8-db2a-363a-9770266291fe",
+            "pageType": "learn",
+            "pageKind": "path",
+            "uid": "learn.wwl.get-started-with-artificial-intelligence-on-azure",
+            "challengeId": null,
+            "eventUid": "",
+            "durationInMillisecond": null,
+            "showId": ""
+          },
+          "lastModified": "2023-02-02T15:08:00+00:00"
+        }
+      ],
+      "itemCount": 1,
+      "sections": [],
+      "sectionCount": 0,
+      "isOfficial": false,
+      "shouldLocalize": false,
+      "isLocalized": false,
+      "isFallbackLocale": false,
+      "showUserDisplayName": false,
+      "challengeId": null,
+      "studyGuideId": null,
+      "moduleCount": 0,
+      "completedModuleCount": 0,
+      "remainingDuration": 0,
+      "totalDuration": 0
+    },
+    {
+      "id": "bookmarks",
+      "userId": "ba8c2183-a14c-41b6-9085-e8c9c8524bc7",
+      "name": "Bookmarks",
+      "description": "",
+      "type": "bookmarks",
+      "lastModified": "2023-02-02T15:07:57+00:00",
+      "totalItems": 0,
+      "items": [],
+      "itemCount": 0,
+      "sections": [],
+      "sectionCount": 0,
+      "isOfficial": false,
+      "shouldLocalize": false,
+      "isLocalized": false,
+      "isFallbackLocale": false,
+      "showUserDisplayName": false,
+      "challengeId": null,
+      "studyGuideId": null,
+      "moduleCount": 0,
+      "completedModuleCount": 0,
+      "remainingDuration": 0,
+      "totalDuration": 0
+    }
+  ],
+  "XP": {
+    "totalPoints": 70350,
+    "level": {
+      "levelNumber": 8,
+      "pointsLow": 48500,
+      "pointsHigh": 72099
+    },
+    "nextLevelNumber": 9,
+    "currentLevelPointsEarned": 21850,
+    "pointsToNextLevel": 1750,
+    "achievements": [
+      {
+        "awardUid": "learn.wwl.m365-licensing-service-support.trophy",
+        "awardType": "Trophy",
+        "reason": "trophy.path.basic.completed",
+        "awardedDateUTC": "2023-03-25T17:36:01.5226918Z",
+        "sourceUid": "learn.wwl.m365-licensing-service-support",
+        "sourceType": "LearningPath"
+      },
+      {
+        "awardUid": "learn.wwl.describe-support-offerings-for-microsoft-365-services.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-03-25T17:36:01.5226891Z",
+        "sourceUid": "learn.wwl.describe-support-offerings-for-microsoft-365-services",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.describe-productivity-solutions-microsoft-365.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-03-25T17:33:45.4791492Z",
+        "sourceUid": "learn.wwl.describe-productivity-solutions-microsoft-365",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.identify-licensing-options-available-microsoft-365.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-03-25T17:27:30.4949456Z",
+        "sourceUid": "learn.wwl.identify-licensing-options-available-microsoft-365",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.use-automated-machine-learning.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-18T17:59:05.4447394Z",
+        "sourceUid": "learn.wwl.use-automated-machine-learning",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.explore-azure-openai.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-18T17:48:07.2437243Z",
+        "sourceUid": "learn.wwl.explore-azure-openai",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-network-watcher.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:59.7177219Z",
+        "sourceUid": "learn.wwl.configure-network-watcher",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-log-analytics.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:59.1217246Z",
+        "sourceUid": "learn.wwl.configure-log-analytics",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-azure-alerts.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:58.5460697Z",
+        "sourceUid": "learn.wwl.configure-azure-alerts",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-azure-monitor.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:57.940861Z",
+        "sourceUid": "learn.wwl.configure-azure-monitor",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-virtual-machine-backups.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:57.3873393Z",
+        "sourceUid": "learn.wwl.configure-virtual-machine-backups",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-file-folder-backups.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:56.7458787Z",
+        "sourceUid": "learn.wwl.configure-file-folder-backups",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-azure-kubernetes-service.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:56.1427564Z",
+        "sourceUid": "learn.wwl.configure-azure-kubernetes-service",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-azure-container-instances.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:55.5860913Z",
+        "sourceUid": "learn.wwl.configure-azure-container-instances",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-azure-app-services.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:55.0235677Z",
+        "sourceUid": "learn.wwl.configure-azure-app-services",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-app-service-plans.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:54.4203729Z",
+        "sourceUid": "learn.wwl.configure-app-service-plans",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-virtual-machine-extensions.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:53.8687843Z",
+        "sourceUid": "learn.wwl.configure-virtual-machine-extensions",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-virtual-machine-availability.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:53.2020751Z",
+        "sourceUid": "learn.wwl.configure-virtual-machine-availability",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-virtual-machines.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:52.5763484Z",
+        "sourceUid": "learn.wwl.configure-virtual-machines",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-storage-tools.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:51.969111Z",
+        "sourceUid": "learn.wwl.configure-storage-tools",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-azure-files-file-sync.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:51.326127Z",
+        "sourceUid": "learn.wwl.configure-azure-files-file-sync",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-storage-security.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:50.7212861Z",
+        "sourceUid": "learn.wwl.configure-storage-security",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-blob-storage.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:50.0984059Z",
+        "sourceUid": "learn.wwl.configure-blob-storage",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-storage-accounts.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:49.5373459Z",
+        "sourceUid": "learn.wwl.configure-storage-accounts",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-azure-application-gateway.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:48.9255006Z",
+        "sourceUid": "learn.wwl.configure-azure-application-gateway",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-azure-load-balancer.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:48.3116804Z",
+        "sourceUid": "learn.wwl.configure-azure-load-balancer",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-network-routing-endpoints.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:47.692428Z",
+        "sourceUid": "learn.wwl.configure-network-routing-endpoints",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-expressroute-virtual-wan.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:47.1141093Z",
+        "sourceUid": "learn.wwl.configure-expressroute-virtual-wan",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-vpn-gateway.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:46.2359785Z",
+        "sourceUid": "learn.wwl.configure-vpn-gateway",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-vnet-peering.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:45.6303606Z",
+        "sourceUid": "learn.wwl.configure-vnet-peering",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-azure-dns.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:45.06134Z",
+        "sourceUid": "learn.wwl.configure-azure-dns",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-azure-firewall.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:44.4711669Z",
+        "sourceUid": "learn.wwl.configure-azure-firewall",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-network-security-groups.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:43.857906Z",
+        "sourceUid": "learn.wwl.configure-network-security-groups",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-virtual-networks.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:43.2724175Z",
+        "sourceUid": "learn.wwl.configure-virtual-networks",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-resources-arm-templates.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:42.7163279Z",
+        "sourceUid": "learn.wwl.configure-resources-arm-templates",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.use-azure-resource-manager.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:42.1038696Z",
+        "sourceUid": "learn.wwl.use-azure-resource-manager",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-azure-resources-tools.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:41.4965959Z",
+        "sourceUid": "learn.wwl.configure-azure-resources-tools",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-role-based-access-control.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:40.8953885Z",
+        "sourceUid": "learn.wwl.configure-role-based-access-control",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-azure-policy.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:39.8853396Z",
+        "sourceUid": "learn.wwl.configure-azure-policy",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-subscriptions.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:39.2668636Z",
+        "sourceUid": "learn.wwl.configure-subscriptions",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-user-group-accounts.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:38.6398096Z",
+        "sourceUid": "learn.wwl.configure-user-group-accounts",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.configure-azure-active-directory.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:38.069751Z",
+        "sourceUid": "learn.wwl.configure-azure-active-directory",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "course.az-104t00.badge",
+        "awardType": "Badge",
+        "reason": "badge.course.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:37.3771087Z",
+        "sourceUid": "course.az-104t00",
+        "sourceType": "Course"
+      },
+      {
+        "awardUid": "learn.wwl.describe-azure-management-governance.trophy",
+        "awardType": "Trophy",
+        "reason": "trophy.path.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:10.288495Z",
+        "sourceUid": "learn.wwl.describe-azure-management-governance",
+        "sourceType": "LearningPath"
+      },
+      {
+        "awardUid": "learn.wwl.describe-monitoring-tools-azure.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:10.2884928Z",
+        "sourceUid": "learn.wwl.describe-monitoring-tools-azure",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.describe-features-tools-for-managing-deploying-azure-resources.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:09.9360726Z",
+        "sourceUid": "learn.wwl.describe-features-tools-manage-deploy-azure-resources",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.azure-fundamentals-describe-azure-architecture-services.trophy",
+        "awardType": "Trophy",
+        "reason": "trophy.path.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:09.471984Z",
+        "sourceUid": "learn.wwl.azure-fundamentals-describe-azure-architecture-services",
+        "sourceType": "LearningPath"
+      },
+      {
+        "awardUid": "learn.wwl.describe-azure-identity-access-security.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:09.4719821Z",
+        "sourceUid": "learn.wwl.describe-azure-identity-access-security",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.describe-azure-storage-services.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:09.0303709Z",
+        "sourceUid": "learn.wwl.describe-azure-storage-services",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.describe-azure-compute-networking-services.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:08.679732Z",
+        "sourceUid": "learn.wwl.describe-azure-compute-networking-services",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.describe-core-architectural-components-of-azure.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:07.3432395Z",
+        "sourceUid": "learn.wwl.describe-core-architectural-components-of-azure",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "course.az-900t00.badge",
+        "awardType": "Badge",
+        "reason": "badge.course.basic.completed",
+        "awardedDateUTC": "2023-02-09T07:05:04.4893148Z",
+        "sourceUid": "course.az-900t00",
+        "sourceType": "Course"
+      },
+      {
+        "awardUid": "learn.create-azure-account.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-02T14:53:09.2718755Z",
+        "sourceUid": "learn.create-azure-account",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.describe-features-tools-azure-for-governance-compliance.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-02T14:44:43.2561762Z",
+        "sourceUid": "learn.wwl.describe-features-tools-azure-for-governance-compliance",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.describe-cost-management-azure.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-02-02T14:14:05.4496599Z",
+        "sourceUid": "learn.wwl.describe-cost-management-azure",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.get-started-with-artificial-intelligence-on-azure.trophy",
+        "awardType": "Trophy",
+        "reason": "trophy.path.basic.completed",
+        "awardedDateUTC": "2023-01-26T16:44:33.9412369Z",
+        "sourceUid": "learn.wwl.get-started-with-artificial-intelligence-on-azure",
+        "sourceType": "LearningPath"
+      },
+      {
+        "awardUid": "learn.wwl.get-started-ai-fundamentals.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-01-26T16:44:33.9412343Z",
+        "sourceUid": "learn.wwl.get-started-ai-fundamentals",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.microsoft-azure-fundamentals-describe-cloud-concepts.trophy",
+        "awardType": "Trophy",
+        "reason": "trophy.path.basic.completed",
+        "awardedDateUTC": "2023-01-25T15:26:59.9684064Z",
+        "sourceUid": "learn.wwl.microsoft-azure-fundamentals-describe-cloud-concepts",
+        "sourceType": "LearningPath"
+      },
+      {
+        "awardUid": "learn.wwl.describe-cloud-service-types.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-01-25T15:26:59.9684032Z",
+        "sourceUid": "learn.wwl.describe-cloud-service-types",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.describe-benefits-of-using-cloud-services.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-01-25T15:14:40.4158716Z",
+        "sourceUid": "learn.wwl.describe-benefits-use-cloud-services",
+        "sourceType": "Module"
+      },
+      {
+        "awardUid": "learn.wwl.describe-cloud-computing.badge",
+        "awardType": "Badge",
+        "reason": "badge.module.basic.completed",
+        "awardedDateUTC": "2023-01-25T14:41:21.5565414Z",
+        "sourceUid": "learn.wwl.describe-cloud-compute",
+        "sourceType": "Module"
+      }
+    ]
+  },
+  "Assessments": null,
+  "TechProfile": {
+    "email": "2020BTCSE0195@svvvindore.onmicrosoft.com",
+    "locale": "en-gb",
+    "country": "IN",
+    "contactPointTopicSetting": "OptInImplicit",
+    "gsi": false,
+    "isAvatarTakenDown": null,
+    "isInstructor": false,
+    "isMecUser": false,
+    "isQnaModerator": false,
+    "source": "docs",
+    "acceptedPrivacyNotice": null,
+    "authenticationModes": [
+      {
+        "id": "9e39cc3d-d225-4689-9123-740391fb94c4",
+        "type": "AAD",
+        "tenantId": "783ff96b-fe13-406b-b48d-45dc1853cbad",
+        "upn": "2020BTCSE0195@svvvindore.onmicrosoft.com",
+        "oid": "9e39cc3d-d225-4689-9123-740391fb94c4",
+        "dateAcceptedPrivacyNotice": "2023-02-02T15:06:42.9096952+00:00",
+        "dateAdded": "2023-02-02T15:06:42.9096952+00:00"
+      },
+      {
+        "id": "00037FFE5ED44DAF",
+        "type": "MSA",
+        "tenantId": "9188040d-6c67-4c5b-b112-36a304b66dad",
+        "upn": "kanchan.ashok.giri@gmail.com",
+        "oid": "00000000-0000-0000-6854-7f3908c693da",
+        "dateAcceptedPrivacyNotice": "2023-01-25T13:38:06.2175576+00:00",
+        "dateAdded": "2023-01-25T13:38:06.2175577+00:00"
+      }
+    ],
+    "interests": null,
+    "groups": [],
+    "transcriptSettings": {
+      "publicLink": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      },
+      "print": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "certificationSettings": {
+      "print": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "qnaEmailPreferences": null,
+    "sharingId": "5875E59F7F357D8",
+    "userId": "ba8c2183-a14c-41b6-9085-e8c9c8524bc7",
+    "userName": "KanchanGiri-1432",
+    "displayName": "Kanchan Giri",
+    "avatarUrl": null,
+    "avatarThumbnailUrl": null,
+    "isPrivate": false,
+    "affiliations": [],
+    "qnaUserId": null,
+    "followerCount": 0,
+    "followingCount": 0,
+    "answersAccepted": 0,
+    "reputationPoints": 0,
+    "createdOn": "2/2/2023 3:06:42 PM"
+  },
+  "SkillAssessment": null,
+  "NextSteps": {
+    "docsId": "ba8c2183-a14c-41b6-9085-e8c9c8524bc7",
+    "dismissals": [],
+    "enrollments": [
+      {
+        "id": "7e78bf97-f201-4ab9-aff8-946a9dd84648",
+        "partitionKey": "ba8c2183-a14c-41b6-9085-e8c9c8524bc7",
+        "sourceType": "learningpath",
+        "sourceId": "learn.wwl.describe-azure-management-governance",
+        "_ts": 1675350480
+      },
+      {
+        "id": "f3c33ec1-4555-4639-b12f-5860b00a31d9",
+        "partitionKey": "ba8c2183-a14c-41b6-9085-e8c9c8524bc7",
+        "sourceType": "collection",
+        "sourceId": "zopanqdn7w1p1",
+        "_ts": 1675350480
+      },
+      {
+        "id": "78acada2-9628-4101-a859-2fdfc2a0ae7c",
+        "partitionKey": "ba8c2183-a14c-41b6-9085-e8c9c8524bc7",
+        "sourceType": "learningpath",
+        "sourceId": "learn.wwl.microsoft-azure-fundamentals-describe-cloud-concepts",
+        "_ts": 1675350480
+      },
+      {
+        "id": "f7f7303b-1ad8-403d-b4f4-bd0b3a214fd2",
+        "partitionKey": "ba8c2183-a14c-41b6-9085-e8c9c8524bc7",
+        "sourceType": "learningpath",
+        "sourceId": "learn.security.manage-identity-and-access",
+        "_ts": 1675350480
+      },
+      {
+        "id": "d03407d6-a4cf-4e2c-96a3-19b13f70f7f9",
+        "partitionKey": "ba8c2183-a14c-41b6-9085-e8c9c8524bc7",
+        "sourceType": "collection",
+        "sourceId": "5x60b217kqnzkp",
+        "_ts": 1679765169
+      }
+    ]
+  },
+  "Ratings": null
+}
